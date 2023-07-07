@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-HongJu&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</br>
+[![Lee-HongJu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-HongJu&show_icons=true&theme=radical)](https://github.com/Lee-HongJu/github-readme-stats)
 
 </div>
